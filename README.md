@@ -6,7 +6,7 @@
  - And finally `flutter run`
 
 **Training Video on Youtube** 
-Subscribe and like => [Flutter - Http Get Api İşlemleri](https://youtu.be/vfF1inkH-9U)
+Subscribe and like => [Flutter - Http Get & jSON Api İşlemleri](https://youtu.be/vfF1inkH-9U)
 
 **Our Blog**
 Yazilim Karavani => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
@@ -21,7 +21,7 @@ Yazilim Karavani => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
  - Ve son olarak `flutter run`
 
 **Eğitim Videosu YouTube'da** 
-Abone olmayı ve beğenmeyi unutmayın => [Flutter - Http Get Api İşlemleri](https://youtu.be/vfF1inkH-9U)
+Abone olmayı ve beğenmeyi unutmayın => [Flutter - Http Get & jSON Api İşlemleri](https://youtu.be/vfF1inkH-9U)
 
 **Blogumuz**
 Yazılım Karavanı => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
