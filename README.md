@@ -1,7 +1,7 @@
 # Flutter - Http Get & jSON Api Operations (EN)
 
 ## Setup
- - Open **http_get** file with **Visual Studio Code**
+ - Open **http_methods** file with **Visual Studio Code**
  - Run this command on the terminal `flutter pub get`
  - And finally `flutter run`
 
@@ -16,7 +16,7 @@ Yazilim Karavani => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
 # Flutter - Http Get & jSON Api İşlemleri(TR)
 
 ## Kurulum
- - **ssl_pinning** dosyasını **Visual Studio Code** ile açın
+ - **http_methods** dosyasını **Visual Studio Code** ile açın
  - Terminalde `flutter pub get` komutunu çalıştırın
  - Ve son olarak `flutter run`
 
